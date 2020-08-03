@@ -1,0 +1,8 @@
+,0
+username,c2_Recruitment
+category,Design help
+title_tag,Hide login in menu when logged in on external site embedded in Webflow
+content,"I have created some user pages requiring logging in on www.knack.com and can embed those pages into my webflow site.
+How do I hide the login link/button in the menu in webflow on those embedded Knack pages (which will show “logout” in the embedded view when the user is logged in)?
+Thanks"
+likes,0

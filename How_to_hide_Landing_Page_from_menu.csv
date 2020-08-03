@@ -1,0 +1,27 @@
+,0,1,2,3
+username,c2_Recruitment,simonhaythornthwaite,ShyLo12,Frank_Mettford
+category,Design help,Design help,Community resources,Design help
+title_tag,Hide login in menu when logged in on external site embedded in Webflow,Different Portfolio Pages,SSL Quick Question,How to hide Landing Page from menu
+content,"I have created some user pages requiring logging in on www.knack.com and can embed those pages into my webflow site.
+How do I hide the login link/button in the menu in webflow on those embedded Knack pages (which will show “logout” in the embedded view when the user is logged in)?
+Thanks","Help needed.
+I would like to setup my portfolio with CMS however I need to ad more images to different pages projects. When setting up it seems that every page has to be exactly the same and if i ad elements to one page it adds to all.
+Some of my projects only have a few images while others have a lot.
+If someone could point me in the right direction here that would be most appreciated!
+
+Here is my site Read-Only:
+https://preview.webflow.com/preview/shd-67e887?utm_medium=preview_link&utm_source=designer&utm_content=shd-67e887&preview=a985874c91a961a6ee27dfaf483cc070&mode=preview","Hi,
+Can we use our own SSL certificate or do we have to use the one which webflow provide? And is the one which webflow provides good enough?
+They are different types of SSL aren’t there? Which type does webflow provide please?
+Thanks.","Hi there,
+I did some E- Mail marketing Campains wich refers to special landigpages.
+I.e.   www.mysite.com/specail-interest
+I want to hide that specail Landing Pages from Main Menu, so its only reachable
+With this Special link
+Any ideas?
+Best regards
+Fm
+
+Here is my site Read-Only: LINK
+(how to share your site Read-Only link)"
+likes,0,0,0,0

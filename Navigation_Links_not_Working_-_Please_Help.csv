@@ -1,0 +1,80 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+username,c2_Recruitment,simonhaythornthwaite,ShyLo12,Frank_Mettford,Batuhan_Bilgin,Shoe_Laundry,ktoo,Samantha_Thornon-Jon,wischrendel,alquraishi,Alyssa_Bourne,intensero,sarahfrison,intensero,Tom_Sommerseth,FTN,Daniel_Ternyak,webdev,Daniel_Ternyak,Grow2020,HGWeb
+category,Design help,Design help,Community resources,Design help,Publishing help,Design help,Community resources,Community resources,Design help,Design help,Design help,Publishing help,Publishing help,Publishing help,Design help,Design help,Community resources,Community resources,Community resources,Design help,Design help
+title_tag,Hide login in menu when logged in on external site embedded in Webflow,Different Portfolio Pages,SSL Quick Question,How to hide Landing Page from menu,Pushing Form File Data to Airtable via Integromat or Zapier,Page trigger interaction (on page load) lagging,Video previews don’t appear when you mass import video links,Webflow Google Chrome Bugs,Dynamic Filtering MixItUp with Switch Field,Dynamic Filtering MixItUp with Switch Field,Scrolling animation interaction,What plan do I need for my situation?,What plan do I need for my situation?,What plan do I need for my situation?,Help with offset grid CMS items,CMS Category once deleted unable to add again,Improve performance when using Recaptcha,Improve performance when using Recaptcha,Improve performance when using Recaptcha,Navigation Links not Working - Please Help,Navigation Links not Working - Please Help
+content,"I have created some user pages requiring logging in on www.knack.com and can embed those pages into my webflow site.
+How do I hide the login link/button in the menu in webflow on those embedded Knack pages (which will show “logout” in the embedded view when the user is logged in)?
+Thanks","Help needed.
+I would like to setup my portfolio with CMS however I need to ad more images to different pages projects. When setting up it seems that every page has to be exactly the same and if i ad elements to one page it adds to all.
+Some of my projects only have a few images while others have a lot.
+If someone could point me in the right direction here that would be most appreciated!
+
+Here is my site Read-Only:
+https://preview.webflow.com/preview/shd-67e887?utm_medium=preview_link&utm_source=designer&utm_content=shd-67e887&preview=a985874c91a961a6ee27dfaf483cc070&mode=preview","Hi,
+Can we use our own SSL certificate or do we have to use the one which webflow provide? And is the one which webflow provides good enough?
+They are different types of SSL aren’t there? Which type does webflow provide please?
+Thanks.","Hi there,
+I did some E- Mail marketing Campains wich refers to special landigpages.
+I.e.   www.mysite.com/specail-interest
+I want to hide that specail Landing Pages from Main Menu, so its only reachable
+With this Special link
+Any ideas?
+Best regards
+Fm
+
+Here is my site Read-Only: LINK
+(how to share your site Read-Only link)","Hey guys,
+I’m trying to push form file data to Airtable via Integromat but I couldn’t make it so far.
+The problem is Webflow creates an API link for form files and it doesn’t allow somebody to reach that file without login.
+I tried to HTTP request for OUTH but I couldn’t make it either. Is there anybody who has faced a similar issue?
+I just want to create a job application form and push the CV file to the client’s email.
+Thanks,
+Batuhan","Hi,
+I’m having major page-trigger interaction lag on all of my pages; after loading, interaction run smoothly. I don’t have plug-ins or heavy assets running on load; all images are compressed using tiny png.
+If anyone can help, I would really appreciate it. It’s sucks because the interactions used to load smooth  and not sure what changed.
+Thank you,
+Amir
+
+Here is my public share link: LINK
+(how to access public share link)","When I import video links with the API or CSV import, the preview is not generated and the item doesn’t appear on the page. I have to delete a character from the link and add it again to manually trigger the preview generation process.
+Doing this for 200 videos is a bit tedious so if this is solved, it would be great for future projects.","My webflow site works perfectly on safari but some element shadows and images won’t show on google chrome.
+Anyone else experiencing the same issue?
+Screen Shot 2020-08-03 at 8.34.56 AM2824×1564 291 KB Screen Shot 2020-08-03 at 8.35.02 AM2528×1458 392 KB","I have a collection list and I am trying to set up filtering. I have figured out MixItUp filtering for the most part, but I’d like to be able to use a switch field for basically “has attribute” “doesn’t have attribute” filtering. Is this possible or am I hosed? At first I was thinking of using the text from a switch field but apparently you can’t print that. Anyone know any other way to do this?",I’d love to get an answer to this question as well. Right now I have a workaround based on using an option field but it would be best if switch fields are directly supported.,"(topic withdrawn by author, will be automatically deleted in 24 hours unless flagged)","Hello, I need to make a website for a client, which has about 7 static pages, no CMS.
+I am a bit confused on what plan I should do, site plan or account plan.
+I do have my own hosting, and already have the custom domain, so I assume I should get the account plan to have the ability to export the code, is that correct?
+Also, if I go with the account plan, am I limited in the number of pages I can design on the website/project? Do I also need to add a site plan even though I have my own hosting account somewhere else?","@intensero welcome to the forum! In your case, an account plan should be fine. To be clear: you’ve got hosting and a domain name with another company, right? That’s where you’re planning on hosting the website you’ve made in webflow?
+If that’s correct, then an account plan is all you need. A site plan is like hosting, really. It allows you to publish a website to a custom domain on webflow’s servers.","Understood, thank you so much @sarahfrison","Hi guys.  I’m building a collection list with projects on display. I thought maybe a combo of flex and grids would be the best way, but I wonder what would be the best practice to get vertical offset on the different collection items? See my attached screen from Figma.ofset_cms_item_blocks832×1187 148 KB
+I do not think this is a good practice when it comes to user friendliness for the client: Dynamic Grid Item Offset
+Any other solution I welcome.
+Thanks in advance.
+Hope it all made sense 
+
+Here is my site Read-Only: https://preview.webflow.com/preview/scenario-web?utm_medium=preview_link&utm_source=designer&utm_content=scenario-web&preview=c326176fedf0ab7284e9580a7e467d72&mode=preview","Hi Web flow community,
+I have tried to use the categories under CMS.
+I first used it with default elements then deleted that category collection and now trying to create a new category collection custom to what I am building.
+Unfortunately I cannot add a new category collection, the old one even though deleted prevents me from doing it.
+Here are screen shot of my steps.
+     Last Step. No Category show event after steps have been completed.420×501 19.2 KB
+
+Here is my site Read-Only: LINK
+(how to share your site Read-Only link)","Hello,
+I’ve just setup Recpatcha on my webflow site, and after checking out pagespeed insights, I’m a bit horrified at the results.
+Ideally, I’d like to be able to load the recaptcha js myself once users start click around in the form. Webflow currently adds a script tag that loads recpatcha automatically, and doesn’t allow me to disable this / prevent them from forcing this load.
+Is there any way we could add a toggle that would allow us to customize whether or not we would like recaptcha to be loaded automatically? There are several pages with no forms at all, so this feature would be especially useful to remove this unneeded load on this page. This could significantly help to improve pagespeed on a lot of sites.
+Thanks!","
+
+
+ Daniel_Ternyak:
+
+Is there any way we could add a toggle that would allow us to customize whether or not we would like recaptcha to be loaded automatically?
+
+
+No, not within Webflow as ReCaptcha is an all or nothing affair when using that built in feature.  You could opt to use a third party form processor that allows for ReCaptcha on a form by form basis like usebasin.com.",Got it! Thanks. Do you know how I could request a feature that would allow this? It would make a big difference for site load time.,"I’m experencing problems with my header navigation links.
+Only on the home page, non-dropdown links are not working, the specific non-working links are “work”, “Blog” and “Contact” while the dropdown links are still working. There are links connected and so I can’t find the problem, unfortunately.
+Please help, here is a link to my website:
+Read Only Link - Click Here 1","Hello.
+The problem is that there is an other element that overlaps the menu on these pages.
+On the ‘about’ page it is the Lotti animation.
+On ‘Lottie Animation 4’ set the margin top to 0% not -12%, otherwise the elements blocks the menu.
+Now it works fine."
+likes,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
